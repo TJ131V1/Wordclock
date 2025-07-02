@@ -1,0 +1,16052 @@
+999
+Created by TechSoft software: TechSoft Design Version 3.13
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$HANDSEED
+  5
+249F0
+  9
+$ANGBASE
+ 50
+0
+  9
+$ANGDIR
+ 70
+0
+  9
+$ATTMODE
+ 70
+1
+  9
+$AUNITS
+ 70
+0
+  9
+$AUPREC
+ 70
+0
+  9
+$CECOLOR
+ 62
+256
+  9
+$CELTSCALE
+ 40
+1
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$CELWEIGHT
+370
+-1
+  9
+$CHAMFERA
+ 40
+10
+  9
+$CHAMFERB
+ 40
+10
+  9
+$CLAYER
+  8
+Layer 1
+  9
+$CMLJUST
+ 70
+0
+  9
+$CMLSCALE
+ 40
+20
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$DIMSTYLE
+  2
+Standard
+  9
+$EXTMAX
+ 10
+440
+ 20
+10
+ 30
+0
+  9
+$EXTMIN
+ 10
+10
+ 20
+440
+ 30
+0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$TEXTSIZE
+ 40
+20
+  9
+$LUNITS
+ 70
+2
+  9
+$LUPREC
+ 70
+4
+  9
+$MIRRTEXT
+ 70
+0
+  9
+$EXTNAMES
+290
+1
+  9
+$INSBASE
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$INSUNITS
+ 70
+4
+  9
+$LTSCALE
+ 40
+10
+  9
+$LWDISPLAY
+290
+0
+  9
+$PDMODE
+ 70
+0
+  9
+$PDSIZE
+ 40
+0
+  9
+$PLINEGEN
+ 70
+1
+  9
+$PSLTSCALE
+ 70
+1
+  9
+$TDCREATE
+ 40
+2459187
+  9
+$TDUCREATE
+ 40
+2459187
+  9
+$TDUPDATE
+ 40
+2459187
+  9
+$TDUUPDATE
+ 40
+2459187
+  9
+$TDINDWG
+ 40
+0
+  9
+$UCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$UCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$DIMADEC
+ 70
+0
+  9
+$DIMALT
+ 70
+0
+  9
+$DIMALTD
+ 70
+2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMALTRND
+ 40
+0
+  9
+$DIMALTTD
+ 70
+2
+  9
+$DIMALTTZ
+ 70
+0
+  9
+$DIMALTU
+ 70
+2
+  9
+$DIMALTZ
+ 70
+0
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMATFIT
+ 70
+3
+  9
+$DIMAUNIT
+ 70
+0
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMAZIN
+ 70
+0
+  9
+$DIMSAH
+ 70
+0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMCLRD
+ 70
+0
+  9
+$DIMCLRE
+ 70
+0
+  9
+$DIMCLRT
+ 70
+0
+  9
+$DIMDEC
+ 70
+4
+  9
+$DIMDLE
+ 40
+0
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMDSEP
+ 70
+46
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMFXLON
+ 70
+0
+  9
+$DIMFXL
+ 40
+1
+  9
+$DIMGAP
+ 40
+0.09
+  9
+$DIMJUST
+ 70
+0
+  9
+$DIMLFAC
+ 40
+1
+  9
+$DIMLUNIT
+ 70
+2
+  9
+$DIMLWD
+ 70
+-2
+  9
+$DIMLWE
+ 70
+-2
+  9
+$DIMPOST
+  1
+
+  9
+$DIMRND
+ 40
+0
+  9
+$DIMSCALE
+ 40
+1
+  9
+$DIMSD1
+ 70
+0
+  9
+$DIMSD2
+ 70
+0
+  9
+$DIMSE1
+ 70
+0
+  9
+$DIMSE2
+ 70
+0
+  9
+$DIMSOXD
+ 70
+0
+  9
+$DIMTAD
+ 70
+0
+  9
+$DIMTDEC
+ 70
+4
+  9
+$DIMTFAC
+ 40
+1
+  9
+$DIMTIH
+ 70
+0
+  9
+$DIMTIX
+ 70
+0
+  9
+$DIMTM
+ 40
+0
+  9
+$DIMTMOVE
+ 70
+0
+  9
+$DIMTOFL
+ 70
+0
+  9
+$DIMTOH
+ 70
+0
+  9
+$DIMTOL
+ 70
+0
+  9
+$DIMLIM
+ 70
+0
+  9
+$DIMTOLJ
+ 70
+1
+  9
+$DIMTP
+ 40
+0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMTXTDIRECTION
+ 70
+0
+  9
+$DIMTZIN
+ 70
+0
+  9
+$DIMZIN
+ 70
+0
+  9
+$DIMFRAC
+ 70
+0
+  9
+$DIMLTYPE
+  6
+ByBlock
+  9
+$DIMLTEX1
+  6
+ByBlock
+  9
+$DIMLTEX2
+  6
+ByBlock
+  9
+$REGENMODE
+ 70
+1
+  9
+$FILLMODE
+ 70
+1
+  9
+$QTEXTMODE
+ 70
+0
+  9
+$DRAGMODE
+ 70
+2
+  9
+$OSMODE
+ 70
+511
+  9
+$TRACEWID
+ 40
+1
+  9
+$DIMTSZ
+ 40
+0
+  9
+$DIMASO
+ 70
+1
+  9
+$DIMSHO
+ 70
+1
+  9
+$DIMTVP
+ 40
+0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$SKETCHINC
+ 40
+1
+  9
+$FILLETRAD
+ 40
+10
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0
+  9
+$PELEVATION
+ 40
+0
+  9
+$THICKNESS
+ 40
+0
+  9
+$LIMCHECK
+ 70
+0
+  9
+$SKPOLY
+ 70
+0
+  9
+$TDUSRTIMER
+ 40
+0
+  9
+$USRTIMER
+ 70
+0
+  9
+$PLINEWID
+ 40
+0
+  9
+$COORDS
+ 70
+1
+  9
+$SPLFRAME
+ 70
+0
+  9
+$SPLINETYPE
+ 70
+6
+  9
+$SPLINESEGS
+ 70
+8
+  9
+$ATTDIA
+ 70
+0
+  9
+$ATTREQ
+ 70
+1
+  9
+$HANDLING
+ 70
+1
+  9
+$SURFTAB1
+ 70
+6
+  9
+$SURFTAB2
+ 70
+6
+  9
+$SURFTYPE
+ 70
+6
+  9
+$SURFU
+ 70
+6
+  9
+$SURFV
+ 70
+6
+  9
+$UCSNAME
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$PUCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$WORLDVIEW
+ 70
+1
+  9
+$SHADEDGE
+ 70
+3
+  9
+$SHADEDIF
+ 70
+70
+  9
+$TILEMODE
+ 70
+1
+  9
+$MAXACTVP
+ 70
+64
+  9
+$PLIMCHECK
+ 70
+0
+  9
+$PLIMMAX
+ 10
+0
+ 20
+0
+  9
+$PLIMMIN
+ 10
+0
+ 20
+0
+  9
+$UNITMODE
+ 70
+0
+  9
+$VISRETAIN
+ 70
+1
+  9
+$LIMMAX
+ 10
+450
+ 20
+450
+  9
+$LIMMIN
+ 10
+0
+ 20
+0
+  9
+$MEASUREMENT
+ 70
+1
+  9
+$ORTHOMODE
+ 70
+0
+  9
+$GRIDUNIT
+ 10
+0
+ 20
+0
+  9
+$SNAPUNIT
+ 10
+0
+ 20
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+VPORT
+  5
+E
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*ACTIVE
+ 70
+0
+ 10
+0
+ 20
+0
+ 11
+1
+ 21
+1
+ 12
+209.475294
+ 22
+86.002634
+ 13
+0
+ 23
+0
+ 14
+10
+ 24
+10
+ 15
+10
+ 25
+10
+ 16
+0
+ 26
+0
+ 36
+1
+ 17
+0
+ 27
+0
+ 37
+0
+ 40
+319.744231
+ 41
+2.129464
+ 42
+50
+ 43
+0
+ 44
+0
+ 50
+0
+ 51
+0
+ 71
+0
+ 72
+100
+ 73
+1
+ 74
+3
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+0
+281
+0
+ 65
+1
+110
+0
+120
+0
+130
+0
+111
+1
+121
+0
+131
+0
+112
+0
+122
+1
+132
+0
+ 79
+0
+146
+0
+348
+10020
+ 60
+7
+ 61
+5
+292
+1
+282
+1
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+15
+  0
+LTYPE
+  5
+F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0
+  0
+LTYPE
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0
+  0
+LTYPE
+  5
+11
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+0
+  3
+Solid line
+ 72
+65
+ 73
+0
+ 40
+0
+  0
+LTYPE
+  5
+12
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT
+ 70
+0
+  3
+............................................
+ 72
+65
+ 73
+2
+ 40
+0.25
+ 49
+0
+ 74
+0
+ 49
+-0.25
+ 74
+0
+  0
+LTYPE
+  5
+13
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+HIDDEN
+ 70
+0
+  3
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ 72
+65
+ 73
+2
+ 40
+0.375
+ 49
+0.25
+ 74
+0
+ 49
+-0.125
+ 74
+0
+  0
+LTYPE
+  5
+14
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+TSLONGDASH
+ 70
+0
+  3
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ _ 
+ 72
+65
+ 73
+2
+ 40
+1.28
+ 49
+1
+ 74
+0
+ 49
+-0.28
+ 74
+0
+  0
+LTYPE
+  5
+15
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+TSDASHDOT
+ 70
+0
+  3
+______ . ______ . ______ . ______ . ______ .
+ 72
+65
+ 73
+4
+ 40
+1.28
+ 49
+1
+ 74
+0
+ 49
+-0.14
+ 74
+0
+ 49
+0
+ 74
+0
+ 49
+-0.14
+ 74
+0
+  0
+LTYPE
+  5
+16
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+TSCENTER
+ 70
+0
+  3
+______ _ ______ _ ______ _ ______ _ ______ _
+ 72
+65
+ 73
+4
+ 40
+2
+ 49
+1.5
+ 74
+0
+ 49
+-0.18
+ 74
+0
+ 49
+0.14
+ 74
+0
+ 49
+-0.18
+ 74
+0
+  0
+LTYPE
+  5
+17
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+TSPHANTOM
+ 70
+0
+  3
+_____ _ _ _____ _ _ _____ _ _ _____ _ _ ____
+ 72
+65
+ 73
+6
+ 40
+2.5
+ 49
+1.63
+ 74
+0
+ 49
+-0.19
+ 74
+0
+ 49
+0.15
+ 74
+0
+ 49
+-0.19
+ 74
+0
+ 49
+0.15
+ 74
+0
+ 49
+-0.19
+ 74
+0
+  0
+LTYPE
+  5
+18
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED
+ 70
+0
+  3
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ 72
+65
+ 73
+2
+ 40
+0.75
+ 49
+0.5
+ 74
+0
+ 49
+-0.25
+ 74
+0
+  0
+LTYPE
+  5
+19
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER
+ 70
+0
+  3
+____ _ ____ _ ____ _ ____ _ ____ _ ____ _ __
+ 72
+65
+ 73
+4
+ 40
+2
+ 49
+1.25
+ 74
+0
+ 49
+-0.25
+ 74
+0
+ 49
+0.25
+ 74
+0
+ 49
+-0.25
+ 74
+0
+  0
+LTYPE
+  5
+1A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOM
+ 70
+0
+  3
+_____ _ _ _____ _ _ _____ _ _ _____ _ _ ____
+ 72
+65
+ 73
+6
+ 40
+2.5
+ 49
+1.25
+ 74
+0
+ 49
+-0.25
+ 74
+0
+ 49
+0.25
+ 74
+0
+ 49
+-0.25
+ 74
+0
+ 49
+0.25
+ 74
+0
+ 49
+-0.25
+ 74
+0
+  0
+LTYPE
+  5
+1B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT
+ 70
+0
+  3
+__ . __ . __ . __ . __ . __ . __ . __ . __ .
+ 72
+65
+ 73
+4
+ 40
+1
+ 49
+0.5
+ 74
+0
+ 49
+-0.25
+ 74
+0
+ 49
+0
+ 74
+0
+ 49
+-0.25
+ 74
+0
+  0
+LTYPE
+  5
+1C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDER
+ 70
+0
+  3
+__ __ . __ __ . __ __ . __ __ . __ __ . __ _
+ 72
+65
+ 73
+6
+ 40
+1.75
+ 49
+0.5
+ 74
+0
+ 49
+-0.25
+ 74
+0
+ 49
+0.5
+ 74
+0
+ 49
+-0.25
+ 74
+0
+ 49
+0
+ 74
+0
+ 49
+-0.25
+ 74
+0
+  0
+LTYPE
+  5
+1D
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE
+ 70
+0
+  3
+__ . . __ . . __ . . __ . . __ . . __ . . __
+ 72
+65
+ 73
+6
+ 40
+1.25
+ 49
+0.5
+ 74
+0
+ 49
+-0.25
+ 74
+0
+ 49
+0
+ 74
+0
+ 49
+-0.25
+ 74
+0
+ 49
+0
+ 74
+0
+ 49
+-0.25
+ 74
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+4
+  0
+LAYER
+  5
+1E
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+0
+ 62
+7
+  6
+CONTINUOUS
+370
+-3
+390
+F
+  0
+LAYER
+  5
+1F
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer 1
+ 70
+0
+ 62
+7
+  6
+CONTINUOUS
+370
+-3
+390
+F
+  0
+LAYER
+  5
+20
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer 2
+ 70
+0
+ 62
+7
+  6
+CONTINUOUS
+370
+-3
+390
+F
+  0
+LAYER
+  5
+21
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer 3
+ 70
+0
+ 62
+7
+  6
+CONTINUOUS
+370
+-3
+390
+F
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+4
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+STYLE
+  5
+22
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+0
+ 42
+0.2
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+APPID
+  5
+23
+330
+7
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+100
+AcDbDimStyleTable
+  0
+DIMSTYLE
+105
+24
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+0
+  3
+
+  4
+
+  5
+
+  6
+
+  7
+
+ 40
+1
+ 41
+0.18
+ 42
+0.0625
+ 43
+0.38
+ 44
+0.18
+ 45
+0
+ 46
+0
+ 47
+0
+ 48
+0
+140
+0.18
+141
+0.09
+142
+0
+143
+25.4
+144
+1
+145
+0
+146
+1
+147
+0.09
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+1
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+0
+170
+0
+171
+2
+172
+0
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+271
+4
+272
+4
+273
+2
+274
+2
+275
+0
+276
+0
+277
+2
+278
+46
+279
+0
+280
+0
+281
+0
+282
+0
+283
+1
+284
+0
+285
+0
+286
+0
+288
+0
+289
+3
+340
+Standard
+341
+
+371
+-2
+372
+-2
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+2
+  0
+BLOCK_RECORD
+  5
+A
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*MODEL_SPACE
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*PAPER_SPACE
+ 70
+0
+280
+1
+281
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+25
+330
+A
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*MODEL_SPACE
+ 70
+0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*MODEL_SPACE
+  1
+
+  0
+ENDBLK
+  5
+26
+330
+A
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+27
+330
+B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*PAPER_SPACE
+ 70
+0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*PAPER_SPACE
+  1
+
+  0
+ENDBLK
+  5
+28
+330
+B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+29
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+10
+ 20
+400
+ 11
+10
+ 21
+440
+  0
+LINE
+  5
+2A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+10
+ 20
+440
+ 11
+50
+ 21
+440
+  0
+LINE
+  5
+2B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+10
+ 20
+400
+ 11
+30
+ 21
+400
+  0
+LINE
+  5
+2C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+30
+ 20
+400
+ 11
+30
+ 21
+380
+  0
+LINE
+  5
+2D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+30
+ 20
+380
+ 11
+10
+ 21
+380
+  0
+LINE
+  5
+2E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+10
+ 20
+70
+ 11
+30
+ 21
+70
+  0
+LINE
+  5
+2F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+30
+ 20
+70
+ 11
+30
+ 21
+50
+  0
+LINE
+  5
+30
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+30
+ 20
+50
+ 11
+10
+ 21
+50
+  0
+LINE
+  5
+31
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+440
+ 20
+380
+ 11
+420
+ 21
+380
+  0
+LINE
+  5
+32
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+420
+ 20
+380
+ 11
+420
+ 21
+400
+  0
+LINE
+  5
+33
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+420
+ 20
+400
+ 11
+440
+ 21
+400
+  0
+LINE
+  5
+34
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+440
+ 20
+50
+ 11
+420
+ 21
+50
+  0
+LINE
+  5
+35
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+420
+ 20
+50
+ 11
+420
+ 21
+70
+  0
+LINE
+  5
+36
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+420
+ 20
+70
+ 11
+440
+ 21
+70
+  0
+LINE
+  5
+37
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+440
+ 20
+50
+ 11
+440
+ 21
+10
+  0
+LINE
+  5
+38
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+440
+ 20
+10
+ 11
+399
+ 21
+10
+  0
+LINE
+  5
+39
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+400
+ 20
+440
+ 11
+440
+ 21
+440
+  0
+LINE
+  5
+3A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+440
+ 20
+440
+ 11
+440
+ 21
+400
+  0
+LINE
+  5
+3B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+50
+ 20
+440
+ 11
+50
+ 21
+395
+  0
+LINE
+  5
+3C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+50
+ 20
+10
+ 11
+50
+ 21
+55
+  0
+LINE
+  5
+3D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+50
+ 20
+10
+ 11
+10
+ 21
+10
+  0
+LINE
+  5
+3E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+10
+ 20
+10
+ 11
+10
+ 21
+50
+  0
+LINE
+  5
+3F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+145
+ 11
+115
+ 21
+145
+  0
+LINE
+  5
+40
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+145
+ 11
+115
+ 21
+125
+  0
+LINE
+  5
+41
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+125
+ 11
+95
+ 21
+125
+  0
+LINE
+  5
+42
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+125
+ 11
+95
+ 21
+145
+  0
+LINE
+  5
+43
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+145
+ 11
+145
+ 21
+145
+  0
+LINE
+  5
+44
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+145
+ 11
+145
+ 21
+125
+  0
+LINE
+  5
+45
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+125
+ 11
+125
+ 21
+125
+  0
+LINE
+  5
+46
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+125
+ 11
+125
+ 21
+145
+  0
+LINE
+  5
+47
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+145
+ 11
+205
+ 21
+145
+  0
+LINE
+  5
+48
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+145
+ 11
+205
+ 21
+125
+  0
+LINE
+  5
+49
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+125
+ 11
+185
+ 21
+125
+  0
+LINE
+  5
+4A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+125
+ 11
+185
+ 21
+145
+  0
+LINE
+  5
+4B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+145
+ 11
+175
+ 21
+145
+  0
+LINE
+  5
+4C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+145
+ 11
+175
+ 21
+125
+  0
+LINE
+  5
+4D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+125
+ 11
+155
+ 21
+125
+  0
+LINE
+  5
+4E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+125
+ 11
+155
+ 21
+145
+  0
+LINE
+  5
+4F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+145
+ 11
+235
+ 21
+145
+  0
+LINE
+  5
+50
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+145
+ 11
+235
+ 21
+125
+  0
+LINE
+  5
+51
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+125
+ 11
+215
+ 21
+125
+  0
+LINE
+  5
+52
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+125
+ 11
+215
+ 21
+145
+  0
+LINE
+  5
+53
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+145
+ 11
+295
+ 21
+145
+  0
+LINE
+  5
+54
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+145
+ 11
+295
+ 21
+125
+  0
+LINE
+  5
+55
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+125
+ 11
+275
+ 21
+125
+  0
+LINE
+  5
+56
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+125
+ 11
+275
+ 21
+145
+  0
+LINE
+  5
+57
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+145
+ 11
+265
+ 21
+145
+  0
+LINE
+  5
+58
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+145
+ 11
+265
+ 21
+125
+  0
+LINE
+  5
+59
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+125
+ 11
+245
+ 21
+125
+  0
+LINE
+  5
+5A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+125
+ 11
+245
+ 21
+145
+  0
+LINE
+  5
+5B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+145
+ 11
+325
+ 21
+145
+  0
+LINE
+  5
+5C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+145
+ 11
+325
+ 21
+125
+  0
+LINE
+  5
+5D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+125
+ 11
+305
+ 21
+125
+  0
+LINE
+  5
+5E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+125
+ 11
+305
+ 21
+145
+  0
+LINE
+  5
+5F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+145
+ 11
+355
+ 21
+145
+  0
+LINE
+  5
+60
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+145
+ 11
+355
+ 21
+125
+  0
+LINE
+  5
+61
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+125
+ 11
+335
+ 21
+125
+  0
+LINE
+  5
+62
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+125
+ 11
+335
+ 21
+145
+  0
+LINE
+  5
+63
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+175
+ 11
+115
+ 21
+175
+  0
+LINE
+  5
+64
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+175
+ 11
+115
+ 21
+155
+  0
+LINE
+  5
+65
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+155
+ 11
+95
+ 21
+155
+  0
+LINE
+  5
+66
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+155
+ 11
+95
+ 21
+175
+  0
+LINE
+  5
+67
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+175
+ 11
+145
+ 21
+175
+  0
+LINE
+  5
+68
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+175
+ 11
+145
+ 21
+155
+  0
+LINE
+  5
+69
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+155
+ 11
+125
+ 21
+155
+  0
+LINE
+  5
+6A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+155
+ 11
+125
+ 21
+175
+  0
+LINE
+  5
+6B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+175
+ 11
+205
+ 21
+175
+  0
+LINE
+  5
+6C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+175
+ 11
+205
+ 21
+155
+  0
+LINE
+  5
+6D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+155
+ 11
+185
+ 21
+155
+  0
+LINE
+  5
+6E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+155
+ 11
+185
+ 21
+175
+  0
+LINE
+  5
+6F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+175
+ 11
+175
+ 21
+175
+  0
+LINE
+  5
+70
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+175
+ 11
+175
+ 21
+155
+  0
+LINE
+  5
+71
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+155
+ 11
+155
+ 21
+155
+  0
+LINE
+  5
+72
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+155
+ 11
+155
+ 21
+175
+  0
+LINE
+  5
+73
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+175
+ 11
+235
+ 21
+175
+  0
+LINE
+  5
+74
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+175
+ 11
+235
+ 21
+155
+  0
+LINE
+  5
+75
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+155
+ 11
+215
+ 21
+155
+  0
+LINE
+  5
+76
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+155
+ 11
+215
+ 21
+175
+  0
+LINE
+  5
+77
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+175
+ 11
+295
+ 21
+175
+  0
+LINE
+  5
+78
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+175
+ 11
+295
+ 21
+155
+  0
+LINE
+  5
+79
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+155
+ 11
+275
+ 21
+155
+  0
+LINE
+  5
+7A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+155
+ 11
+275
+ 21
+175
+  0
+LINE
+  5
+7B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+175
+ 11
+265
+ 21
+175
+  0
+LINE
+  5
+7C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+175
+ 11
+265
+ 21
+155
+  0
+LINE
+  5
+7D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+155
+ 11
+245
+ 21
+155
+  0
+LINE
+  5
+7E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+155
+ 11
+245
+ 21
+175
+  0
+LINE
+  5
+7F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+175
+ 11
+325
+ 21
+175
+  0
+LINE
+  5
+80
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+175
+ 11
+325
+ 21
+155
+  0
+LINE
+  5
+81
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+155
+ 11
+305
+ 21
+155
+  0
+LINE
+  5
+82
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+155
+ 11
+305
+ 21
+175
+  0
+LINE
+  5
+83
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+175
+ 11
+355
+ 21
+175
+  0
+LINE
+  5
+84
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+175
+ 11
+355
+ 21
+155
+  0
+LINE
+  5
+85
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+155
+ 11
+335
+ 21
+155
+  0
+LINE
+  5
+86
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+155
+ 11
+335
+ 21
+175
+  0
+LINE
+  5
+87
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+205
+ 11
+115
+ 21
+205
+  0
+LINE
+  5
+88
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+205
+ 11
+115
+ 21
+185
+  0
+LINE
+  5
+89
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+185
+ 11
+95
+ 21
+185
+  0
+LINE
+  5
+8A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+185
+ 11
+95
+ 21
+205
+  0
+LINE
+  5
+8B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+205
+ 11
+145
+ 21
+205
+  0
+LINE
+  5
+8C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+205
+ 11
+145
+ 21
+185
+  0
+LINE
+  5
+8D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+185
+ 11
+125
+ 21
+185
+  0
+LINE
+  5
+8E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+185
+ 11
+125
+ 21
+205
+  0
+LINE
+  5
+8F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+205
+ 11
+205
+ 21
+205
+  0
+LINE
+  5
+90
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+205
+ 11
+205
+ 21
+185
+  0
+LINE
+  5
+91
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+185
+ 11
+185
+ 21
+185
+  0
+LINE
+  5
+92
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+185
+ 11
+185
+ 21
+205
+  0
+LINE
+  5
+93
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+205
+ 11
+175
+ 21
+205
+  0
+LINE
+  5
+94
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+205
+ 11
+175
+ 21
+185
+  0
+LINE
+  5
+95
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+185
+ 11
+155
+ 21
+185
+  0
+LINE
+  5
+96
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+185
+ 11
+155
+ 21
+205
+  0
+LINE
+  5
+97
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+205
+ 11
+235
+ 21
+205
+  0
+LINE
+  5
+98
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+205
+ 11
+235
+ 21
+185
+  0
+LINE
+  5
+99
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+185
+ 11
+215
+ 21
+185
+  0
+LINE
+  5
+9A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+185
+ 11
+215
+ 21
+205
+  0
+LINE
+  5
+9B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+205
+ 11
+295
+ 21
+205
+  0
+LINE
+  5
+9C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+205
+ 11
+295
+ 21
+185
+  0
+LINE
+  5
+9D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+185
+ 11
+275
+ 21
+185
+  0
+LINE
+  5
+9E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+185
+ 11
+275
+ 21
+205
+  0
+LINE
+  5
+9F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+205
+ 11
+265
+ 21
+205
+  0
+LINE
+  5
+A0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+205
+ 11
+265
+ 21
+185
+  0
+LINE
+  5
+A1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+185
+ 11
+245
+ 21
+185
+  0
+LINE
+  5
+A2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+185
+ 11
+245
+ 21
+205
+  0
+LINE
+  5
+A3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+205
+ 11
+325
+ 21
+205
+  0
+LINE
+  5
+A4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+205
+ 11
+325
+ 21
+185
+  0
+LINE
+  5
+A5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+185
+ 11
+305
+ 21
+185
+  0
+LINE
+  5
+A6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+185
+ 11
+305
+ 21
+205
+  0
+LINE
+  5
+A7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+205
+ 11
+355
+ 21
+205
+  0
+LINE
+  5
+A8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+205
+ 11
+355
+ 21
+185
+  0
+LINE
+  5
+A9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+185
+ 11
+335
+ 21
+185
+  0
+LINE
+  5
+AA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+185
+ 11
+335
+ 21
+205
+  0
+LINE
+  5
+AB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+235
+ 11
+115
+ 21
+235
+  0
+LINE
+  5
+AC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+235
+ 11
+115
+ 21
+215
+  0
+LINE
+  5
+AD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+215
+ 11
+95
+ 21
+215
+  0
+LINE
+  5
+AE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+215
+ 11
+95
+ 21
+235
+  0
+LINE
+  5
+AF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+235
+ 11
+145
+ 21
+235
+  0
+LINE
+  5
+B0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+235
+ 11
+145
+ 21
+215
+  0
+LINE
+  5
+B1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+215
+ 11
+125
+ 21
+215
+  0
+LINE
+  5
+B2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+215
+ 11
+125
+ 21
+235
+  0
+LINE
+  5
+B3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+235
+ 11
+205
+ 21
+235
+  0
+LINE
+  5
+B4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+235
+ 11
+205
+ 21
+215
+  0
+LINE
+  5
+B5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+215
+ 11
+185
+ 21
+215
+  0
+LINE
+  5
+B6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+215
+ 11
+185
+ 21
+235
+  0
+LINE
+  5
+B7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+235
+ 11
+175
+ 21
+235
+  0
+LINE
+  5
+B8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+235
+ 11
+175
+ 21
+215
+  0
+LINE
+  5
+B9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+215
+ 11
+155
+ 21
+215
+  0
+LINE
+  5
+BA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+215
+ 11
+155
+ 21
+235
+  0
+LINE
+  5
+BB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+235
+ 11
+235
+ 21
+235
+  0
+LINE
+  5
+BC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+235
+ 11
+235
+ 21
+215
+  0
+LINE
+  5
+BD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+215
+ 11
+215
+ 21
+215
+  0
+LINE
+  5
+BE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+215
+ 11
+215
+ 21
+235
+  0
+LINE
+  5
+BF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+235
+ 11
+295
+ 21
+235
+  0
+LINE
+  5
+C0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+235
+ 11
+295
+ 21
+215
+  0
+LINE
+  5
+C1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+215
+ 11
+275
+ 21
+215
+  0
+LINE
+  5
+C2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+215
+ 11
+275
+ 21
+235
+  0
+LINE
+  5
+C3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+235
+ 11
+265
+ 21
+235
+  0
+LINE
+  5
+C4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+235
+ 11
+265
+ 21
+215
+  0
+LINE
+  5
+C5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+215
+ 11
+245
+ 21
+215
+  0
+LINE
+  5
+C6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+215
+ 11
+245
+ 21
+235
+  0
+LINE
+  5
+C7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+235
+ 11
+325
+ 21
+235
+  0
+LINE
+  5
+C8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+235
+ 11
+325
+ 21
+215
+  0
+LINE
+  5
+C9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+215
+ 11
+305
+ 21
+215
+  0
+LINE
+  5
+CA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+215
+ 11
+305
+ 21
+235
+  0
+LINE
+  5
+CB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+235
+ 11
+355
+ 21
+235
+  0
+LINE
+  5
+CC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+235
+ 11
+355
+ 21
+215
+  0
+LINE
+  5
+CD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+215
+ 11
+335
+ 21
+215
+  0
+LINE
+  5
+CE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+215
+ 11
+335
+ 21
+235
+  0
+LINE
+  5
+CF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+265
+ 11
+115
+ 21
+265
+  0
+LINE
+  5
+D0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+265
+ 11
+115
+ 21
+245
+  0
+LINE
+  5
+D1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+245
+ 11
+95
+ 21
+245
+  0
+LINE
+  5
+D2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+245
+ 11
+95
+ 21
+265
+  0
+LINE
+  5
+D3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+265
+ 11
+145
+ 21
+265
+  0
+LINE
+  5
+D4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+265
+ 11
+145
+ 21
+245
+  0
+LINE
+  5
+D5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+245
+ 11
+125
+ 21
+245
+  0
+LINE
+  5
+D6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+245
+ 11
+125
+ 21
+265
+  0
+LINE
+  5
+D7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+265
+ 11
+205
+ 21
+265
+  0
+LINE
+  5
+D8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+265
+ 11
+205
+ 21
+245
+  0
+LINE
+  5
+D9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+245
+ 11
+185
+ 21
+245
+  0
+LINE
+  5
+DA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+245
+ 11
+185
+ 21
+265
+  0
+LINE
+  5
+DB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+265
+ 11
+175
+ 21
+265
+  0
+LINE
+  5
+DC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+265
+ 11
+175
+ 21
+245
+  0
+LINE
+  5
+DD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+245
+ 11
+155
+ 21
+245
+  0
+LINE
+  5
+DE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+245
+ 11
+155
+ 21
+265
+  0
+LINE
+  5
+DF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+265
+ 11
+235
+ 21
+265
+  0
+LINE
+  5
+E0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+265
+ 11
+235
+ 21
+245
+  0
+LINE
+  5
+E1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+245
+ 11
+215
+ 21
+245
+  0
+LINE
+  5
+E2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+245
+ 11
+215
+ 21
+265
+  0
+LINE
+  5
+E3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+265
+ 11
+295
+ 21
+265
+  0
+LINE
+  5
+E4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+265
+ 11
+295
+ 21
+245
+  0
+LINE
+  5
+E5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+245
+ 11
+275
+ 21
+245
+  0
+LINE
+  5
+E6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+245
+ 11
+275
+ 21
+265
+  0
+LINE
+  5
+E7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+265
+ 11
+265
+ 21
+265
+  0
+LINE
+  5
+E8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+265
+ 11
+265
+ 21
+245
+  0
+LINE
+  5
+E9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+245
+ 11
+245
+ 21
+245
+  0
+LINE
+  5
+EA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+245
+ 11
+245
+ 21
+265
+  0
+LINE
+  5
+EB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+265
+ 11
+325
+ 21
+265
+  0
+LINE
+  5
+EC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+265
+ 11
+325
+ 21
+245
+  0
+LINE
+  5
+ED
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+245
+ 11
+305
+ 21
+245
+  0
+LINE
+  5
+EE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+245
+ 11
+305
+ 21
+265
+  0
+LINE
+  5
+EF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+265
+ 11
+355
+ 21
+265
+  0
+LINE
+  5
+F0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+265
+ 11
+355
+ 21
+245
+  0
+LINE
+  5
+F1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+245
+ 11
+335
+ 21
+245
+  0
+LINE
+  5
+F2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+245
+ 11
+335
+ 21
+265
+  0
+LINE
+  5
+F3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+295
+ 11
+115
+ 21
+295
+  0
+LINE
+  5
+F4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+295
+ 11
+115
+ 21
+275
+  0
+LINE
+  5
+F5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+275
+ 11
+95
+ 21
+275
+  0
+LINE
+  5
+F6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+275
+ 11
+95
+ 21
+295
+  0
+LINE
+  5
+F7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+295
+ 11
+145
+ 21
+295
+  0
+LINE
+  5
+F8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+295
+ 11
+145
+ 21
+275
+  0
+LINE
+  5
+F9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+275
+ 11
+125
+ 21
+275
+  0
+LINE
+  5
+FA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+275
+ 11
+125
+ 21
+295
+  0
+LINE
+  5
+FB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+295
+ 11
+205
+ 21
+295
+  0
+LINE
+  5
+FC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+295
+ 11
+205
+ 21
+275
+  0
+LINE
+  5
+FD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+275
+ 11
+185
+ 21
+275
+  0
+LINE
+  5
+FE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+275
+ 11
+185
+ 21
+295
+  0
+LINE
+  5
+FF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+295
+ 11
+175
+ 21
+295
+  0
+LINE
+  5
+100
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+295
+ 11
+175
+ 21
+275
+  0
+LINE
+  5
+101
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+275
+ 11
+155
+ 21
+275
+  0
+LINE
+  5
+102
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+275
+ 11
+155
+ 21
+295
+  0
+LINE
+  5
+103
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+295
+ 11
+235
+ 21
+295
+  0
+LINE
+  5
+104
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+295
+ 11
+235
+ 21
+275
+  0
+LINE
+  5
+105
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+275
+ 11
+215
+ 21
+275
+  0
+LINE
+  5
+106
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+275
+ 11
+215
+ 21
+295
+  0
+LINE
+  5
+107
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+295
+ 11
+295
+ 21
+295
+  0
+LINE
+  5
+108
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+295
+ 11
+295
+ 21
+275
+  0
+LINE
+  5
+109
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+275
+ 11
+275
+ 21
+275
+  0
+LINE
+  5
+10A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+275
+ 11
+275
+ 21
+295
+  0
+LINE
+  5
+10B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+295
+ 11
+265
+ 21
+295
+  0
+LINE
+  5
+10C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+295
+ 11
+265
+ 21
+275
+  0
+LINE
+  5
+10D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+275
+ 11
+245
+ 21
+275
+  0
+LINE
+  5
+10E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+275
+ 11
+245
+ 21
+295
+  0
+LINE
+  5
+10F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+295
+ 11
+325
+ 21
+295
+  0
+LINE
+  5
+110
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+295
+ 11
+325
+ 21
+275
+  0
+LINE
+  5
+111
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+275
+ 11
+305
+ 21
+275
+  0
+LINE
+  5
+112
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+275
+ 11
+305
+ 21
+295
+  0
+LINE
+  5
+113
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+295
+ 11
+355
+ 21
+295
+  0
+LINE
+  5
+114
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+295
+ 11
+355
+ 21
+275
+  0
+LINE
+  5
+115
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+275
+ 11
+335
+ 21
+275
+  0
+LINE
+  5
+116
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+275
+ 11
+335
+ 21
+295
+  0
+LINE
+  5
+117
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+325
+ 11
+115
+ 21
+325
+  0
+LINE
+  5
+118
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+325
+ 11
+115
+ 21
+305
+  0
+LINE
+  5
+119
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+305
+ 11
+95
+ 21
+305
+  0
+LINE
+  5
+11A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+305
+ 11
+95
+ 21
+325
+  0
+LINE
+  5
+11B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+325
+ 11
+145
+ 21
+325
+  0
+LINE
+  5
+11C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+325
+ 11
+145
+ 21
+305
+  0
+LINE
+  5
+11D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+305
+ 11
+125
+ 21
+305
+  0
+LINE
+  5
+11E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+305
+ 11
+125
+ 21
+325
+  0
+LINE
+  5
+11F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+325
+ 11
+205
+ 21
+325
+  0
+LINE
+  5
+120
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+325
+ 11
+205
+ 21
+305
+  0
+LINE
+  5
+121
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+305
+ 11
+185
+ 21
+305
+  0
+LINE
+  5
+122
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+305
+ 11
+185
+ 21
+325
+  0
+LINE
+  5
+123
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+325
+ 11
+175
+ 21
+325
+  0
+LINE
+  5
+124
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+325
+ 11
+175
+ 21
+305
+  0
+LINE
+  5
+125
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+305
+ 11
+155
+ 21
+305
+  0
+LINE
+  5
+126
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+305
+ 11
+155
+ 21
+325
+  0
+LINE
+  5
+127
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+325
+ 11
+235
+ 21
+325
+  0
+LINE
+  5
+128
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+325
+ 11
+235
+ 21
+305
+  0
+LINE
+  5
+129
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+305
+ 11
+215
+ 21
+305
+  0
+LINE
+  5
+12A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+305
+ 11
+215
+ 21
+325
+  0
+LINE
+  5
+12B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+325
+ 11
+295
+ 21
+325
+  0
+LINE
+  5
+12C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+325
+ 11
+295
+ 21
+305
+  0
+LINE
+  5
+12D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+305
+ 11
+275
+ 21
+305
+  0
+LINE
+  5
+12E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+305
+ 11
+275
+ 21
+325
+  0
+LINE
+  5
+12F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+325
+ 11
+265
+ 21
+325
+  0
+LINE
+  5
+130
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+325
+ 11
+265
+ 21
+305
+  0
+LINE
+  5
+131
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+305
+ 11
+245
+ 21
+305
+  0
+LINE
+  5
+132
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+305
+ 11
+245
+ 21
+325
+  0
+LINE
+  5
+133
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+325
+ 11
+325
+ 21
+325
+  0
+LINE
+  5
+134
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+325
+ 11
+325
+ 21
+305
+  0
+LINE
+  5
+135
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+305
+ 11
+305
+ 21
+305
+  0
+LINE
+  5
+136
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+305
+ 11
+305
+ 21
+325
+  0
+LINE
+  5
+137
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+325
+ 11
+355
+ 21
+325
+  0
+LINE
+  5
+138
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+325
+ 11
+355
+ 21
+305
+  0
+LINE
+  5
+139
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+305
+ 11
+335
+ 21
+305
+  0
+LINE
+  5
+13A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+305
+ 11
+335
+ 21
+325
+  0
+LINE
+  5
+13B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+355
+ 11
+115
+ 21
+355
+  0
+LINE
+  5
+13C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+355
+ 11
+115
+ 21
+335
+  0
+LINE
+  5
+13D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+335
+ 11
+95
+ 21
+335
+  0
+LINE
+  5
+13E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+335
+ 11
+95
+ 21
+355
+  0
+LINE
+  5
+13F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+355
+ 11
+145
+ 21
+355
+  0
+LINE
+  5
+140
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+355
+ 11
+145
+ 21
+335
+  0
+LINE
+  5
+141
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+335
+ 11
+125
+ 21
+335
+  0
+LINE
+  5
+142
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+335
+ 11
+125
+ 21
+355
+  0
+LINE
+  5
+143
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+355
+ 11
+205
+ 21
+355
+  0
+LINE
+  5
+144
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+355
+ 11
+205
+ 21
+335
+  0
+LINE
+  5
+145
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+335
+ 11
+185
+ 21
+335
+  0
+LINE
+  5
+146
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+335
+ 11
+185
+ 21
+355
+  0
+LINE
+  5
+147
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+355
+ 11
+175
+ 21
+355
+  0
+LINE
+  5
+148
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+355
+ 11
+175
+ 21
+335
+  0
+LINE
+  5
+149
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+335
+ 11
+155
+ 21
+335
+  0
+LINE
+  5
+14A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+335
+ 11
+155
+ 21
+355
+  0
+LINE
+  5
+14B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+355
+ 11
+235
+ 21
+355
+  0
+LINE
+  5
+14C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+355
+ 11
+235
+ 21
+335
+  0
+LINE
+  5
+14D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+335
+ 11
+215
+ 21
+335
+  0
+LINE
+  5
+14E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+335
+ 11
+215
+ 21
+355
+  0
+LINE
+  5
+14F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+355
+ 11
+295
+ 21
+355
+  0
+LINE
+  5
+150
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+355
+ 11
+295
+ 21
+335
+  0
+LINE
+  5
+151
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+335
+ 11
+275
+ 21
+335
+  0
+LINE
+  5
+152
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+335
+ 11
+275
+ 21
+355
+  0
+LINE
+  5
+153
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+355
+ 11
+265
+ 21
+355
+  0
+LINE
+  5
+154
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+355
+ 11
+265
+ 21
+335
+  0
+LINE
+  5
+155
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+335
+ 11
+245
+ 21
+335
+  0
+LINE
+  5
+156
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+335
+ 11
+245
+ 21
+355
+  0
+LINE
+  5
+157
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+355
+ 11
+325
+ 21
+355
+  0
+LINE
+  5
+158
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+355
+ 11
+325
+ 21
+335
+  0
+LINE
+  5
+159
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+335
+ 11
+305
+ 21
+335
+  0
+LINE
+  5
+15A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+335
+ 11
+305
+ 21
+355
+  0
+LINE
+  5
+15B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+355
+ 11
+355
+ 21
+355
+  0
+LINE
+  5
+15C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+355
+ 11
+355
+ 21
+335
+  0
+LINE
+  5
+15D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+335
+ 11
+335
+ 21
+335
+  0
+LINE
+  5
+15E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+335
+ 11
+335
+ 21
+355
+  0
+LINE
+  5
+15F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+385
+ 11
+115
+ 21
+385
+  0
+LINE
+  5
+160
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+385
+ 11
+115
+ 21
+365
+  0
+LINE
+  5
+161
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+365
+ 11
+95
+ 21
+365
+  0
+LINE
+  5
+162
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+365
+ 11
+95
+ 21
+385
+  0
+LINE
+  5
+163
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+385
+ 11
+145
+ 21
+385
+  0
+LINE
+  5
+164
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+385
+ 11
+145
+ 21
+365
+  0
+LINE
+  5
+165
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+365
+ 11
+125
+ 21
+365
+  0
+LINE
+  5
+166
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+365
+ 11
+125
+ 21
+385
+  0
+LINE
+  5
+167
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+385
+ 11
+205
+ 21
+385
+  0
+LINE
+  5
+168
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+385
+ 11
+205
+ 21
+365
+  0
+LINE
+  5
+169
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+365
+ 11
+185
+ 21
+365
+  0
+LINE
+  5
+16A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+365
+ 11
+185
+ 21
+385
+  0
+LINE
+  5
+16B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+385
+ 11
+175
+ 21
+385
+  0
+LINE
+  5
+16C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+385
+ 11
+175
+ 21
+365
+  0
+LINE
+  5
+16D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+365
+ 11
+155
+ 21
+365
+  0
+LINE
+  5
+16E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+365
+ 11
+155
+ 21
+385
+  0
+LINE
+  5
+16F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+385
+ 11
+235
+ 21
+385
+  0
+LINE
+  5
+170
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+385
+ 11
+235
+ 21
+365
+  0
+LINE
+  5
+171
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+365
+ 11
+215
+ 21
+365
+  0
+LINE
+  5
+172
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+365
+ 11
+215
+ 21
+385
+  0
+LINE
+  5
+173
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+385
+ 11
+295
+ 21
+385
+  0
+LINE
+  5
+174
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+385
+ 11
+295
+ 21
+365
+  0
+LINE
+  5
+175
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+365
+ 11
+275
+ 21
+365
+  0
+LINE
+  5
+176
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+365
+ 11
+275
+ 21
+385
+  0
+LINE
+  5
+177
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+385
+ 11
+265
+ 21
+385
+  0
+LINE
+  5
+178
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+385
+ 11
+265
+ 21
+365
+  0
+LINE
+  5
+179
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+365
+ 11
+245
+ 21
+365
+  0
+LINE
+  5
+17A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+365
+ 11
+245
+ 21
+385
+  0
+LINE
+  5
+17B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+385
+ 11
+325
+ 21
+385
+  0
+LINE
+  5
+17C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+385
+ 11
+325
+ 21
+365
+  0
+LINE
+  5
+17D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+365
+ 11
+305
+ 21
+365
+  0
+LINE
+  5
+17E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+365
+ 11
+305
+ 21
+385
+  0
+LINE
+  5
+17F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+385
+ 11
+355
+ 21
+385
+  0
+LINE
+  5
+180
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+385
+ 11
+355
+ 21
+365
+  0
+LINE
+  5
+181
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+365
+ 11
+335
+ 21
+365
+  0
+LINE
+  5
+182
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+365
+ 11
+335
+ 21
+385
+  0
+LINE
+  5
+183
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+115
+ 11
+115
+ 21
+115
+  0
+LINE
+  5
+184
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+115
+ 11
+115
+ 21
+95
+  0
+LINE
+  5
+185
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+95
+ 11
+95
+ 21
+95
+  0
+LINE
+  5
+186
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+95
+ 11
+95
+ 21
+115
+  0
+LINE
+  5
+187
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+115
+ 11
+145
+ 21
+115
+  0
+LINE
+  5
+188
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+115
+ 11
+145
+ 21
+95
+  0
+LINE
+  5
+189
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+95
+ 11
+125
+ 21
+95
+  0
+LINE
+  5
+18A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+95
+ 11
+125
+ 21
+115
+  0
+LINE
+  5
+18B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+115
+ 11
+205
+ 21
+115
+  0
+LINE
+  5
+18C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+115
+ 11
+205
+ 21
+95
+  0
+LINE
+  5
+18D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+95
+ 11
+185
+ 21
+95
+  0
+LINE
+  5
+18E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+95
+ 11
+185
+ 21
+115
+  0
+LINE
+  5
+18F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+115
+ 11
+175
+ 21
+115
+  0
+LINE
+  5
+190
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+115
+ 11
+175
+ 21
+95
+  0
+LINE
+  5
+191
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+95
+ 11
+155
+ 21
+95
+  0
+LINE
+  5
+192
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+95
+ 11
+155
+ 21
+115
+  0
+LINE
+  5
+193
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+115
+ 11
+235
+ 21
+115
+  0
+LINE
+  5
+194
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+115
+ 11
+235
+ 21
+95
+  0
+LINE
+  5
+195
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+95
+ 11
+215
+ 21
+95
+  0
+LINE
+  5
+196
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+95
+ 11
+215
+ 21
+115
+  0
+LINE
+  5
+197
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+115
+ 11
+295
+ 21
+115
+  0
+LINE
+  5
+198
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+115
+ 11
+295
+ 21
+95
+  0
+LINE
+  5
+199
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+95
+ 11
+275
+ 21
+95
+  0
+LINE
+  5
+19A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+95
+ 11
+275
+ 21
+115
+  0
+LINE
+  5
+19B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+115
+ 11
+265
+ 21
+115
+  0
+LINE
+  5
+19C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+115
+ 11
+265
+ 21
+95
+  0
+LINE
+  5
+19D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+95
+ 11
+245
+ 21
+95
+  0
+LINE
+  5
+19E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+95
+ 11
+245
+ 21
+115
+  0
+LINE
+  5
+19F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+115
+ 11
+325
+ 21
+115
+  0
+LINE
+  5
+1A0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+115
+ 11
+325
+ 21
+95
+  0
+LINE
+  5
+1A1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+95
+ 11
+305
+ 21
+95
+  0
+LINE
+  5
+1A2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+95
+ 11
+305
+ 21
+115
+  0
+LINE
+  5
+1A3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+115
+ 11
+355
+ 21
+115
+  0
+LINE
+  5
+1A4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+115
+ 11
+355
+ 21
+95
+  0
+LINE
+  5
+1A5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+95
+ 11
+335
+ 21
+95
+  0
+LINE
+  5
+1A6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+95
+ 11
+335
+ 21
+115
+  0
+LINE
+  5
+1A7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+85
+ 11
+115
+ 21
+85
+  0
+LINE
+  5
+1A8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+85
+ 11
+115
+ 21
+65
+  0
+LINE
+  5
+1A9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+115
+ 20
+65
+ 11
+95
+ 21
+65
+  0
+LINE
+  5
+1AA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+95
+ 20
+65
+ 11
+95
+ 21
+85
+  0
+LINE
+  5
+1AB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+85
+ 11
+145
+ 21
+85
+  0
+LINE
+  5
+1AC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+85
+ 11
+145
+ 21
+65
+  0
+LINE
+  5
+1AD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+145
+ 20
+65
+ 11
+125
+ 21
+65
+  0
+LINE
+  5
+1AE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+125
+ 20
+65
+ 11
+125
+ 21
+85
+  0
+LINE
+  5
+1AF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+85
+ 11
+205
+ 21
+85
+  0
+LINE
+  5
+1B0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+85
+ 11
+205
+ 21
+65
+  0
+LINE
+  5
+1B1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+205
+ 20
+65
+ 11
+185
+ 21
+65
+  0
+LINE
+  5
+1B2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+185
+ 20
+65
+ 11
+185
+ 21
+85
+  0
+LINE
+  5
+1B3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+85
+ 11
+175
+ 21
+85
+  0
+LINE
+  5
+1B4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+85
+ 11
+175
+ 21
+65
+  0
+LINE
+  5
+1B5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+175
+ 20
+65
+ 11
+155
+ 21
+65
+  0
+LINE
+  5
+1B6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+155
+ 20
+65
+ 11
+155
+ 21
+85
+  0
+LINE
+  5
+1B7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+85
+ 11
+235
+ 21
+85
+  0
+LINE
+  5
+1B8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+85
+ 11
+235
+ 21
+65
+  0
+LINE
+  5
+1B9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+65
+ 11
+215
+ 21
+65
+  0
+LINE
+  5
+1BA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+65
+ 11
+215
+ 21
+85
+  0
+LINE
+  5
+1BB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+85
+ 11
+295
+ 21
+85
+  0
+LINE
+  5
+1BC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+85
+ 11
+295
+ 21
+65
+  0
+LINE
+  5
+1BD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+295
+ 20
+65
+ 11
+275
+ 21
+65
+  0
+LINE
+  5
+1BE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+275
+ 20
+65
+ 11
+275
+ 21
+85
+  0
+LINE
+  5
+1BF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+85
+ 11
+265
+ 21
+85
+  0
+LINE
+  5
+1C0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+85
+ 11
+265
+ 21
+65
+  0
+LINE
+  5
+1C1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+265
+ 20
+65
+ 11
+245
+ 21
+65
+  0
+LINE
+  5
+1C2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+245
+ 20
+65
+ 11
+245
+ 21
+85
+  0
+LINE
+  5
+1C3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+85
+ 11
+325
+ 21
+85
+  0
+LINE
+  5
+1C4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+85
+ 11
+325
+ 21
+65
+  0
+LINE
+  5
+1C5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+325
+ 20
+65
+ 11
+305
+ 21
+65
+  0
+LINE
+  5
+1C6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+305
+ 20
+65
+ 11
+305
+ 21
+85
+  0
+LINE
+  5
+1C7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+85
+ 11
+355
+ 21
+85
+  0
+LINE
+  5
+1C8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+85
+ 11
+355
+ 21
+65
+  0
+LINE
+  5
+1C9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+355
+ 20
+65
+ 11
+335
+ 21
+65
+  0
+LINE
+  5
+1CA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+335
+ 20
+65
+ 11
+335
+ 21
+85
+  0
+LINE
+  5
+1CB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+385
+ 11
+68
+ 21
+385
+  0
+LINE
+  5
+1CC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+385
+ 11
+68
+ 21
+365
+  0
+LINE
+  5
+1CD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+365
+ 11
+85
+ 21
+365
+  0
+LINE
+  5
+1CE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+365
+ 11
+85
+ 21
+385
+  0
+LINE
+  5
+1CF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+355
+ 11
+68
+ 21
+355
+  0
+LINE
+  5
+1D0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+355
+ 11
+68
+ 21
+335
+  0
+LINE
+  5
+1D1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+335
+ 11
+85
+ 21
+335
+  0
+LINE
+  5
+1D2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+335
+ 11
+85
+ 21
+355
+  0
+LINE
+  5
+1D3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+325
+ 11
+68
+ 21
+325
+  0
+LINE
+  5
+1D4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+325
+ 11
+68
+ 21
+305
+  0
+LINE
+  5
+1D5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+305
+ 11
+85
+ 21
+305
+  0
+LINE
+  5
+1D6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+305
+ 11
+85
+ 21
+325
+  0
+LINE
+  5
+1D7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+295
+ 11
+68
+ 21
+295
+  0
+LINE
+  5
+1D8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+295
+ 11
+68
+ 21
+275
+  0
+LINE
+  5
+1D9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+275
+ 11
+85
+ 21
+275
+  0
+LINE
+  5
+1DA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+275
+ 11
+85
+ 21
+295
+  0
+LINE
+  5
+1DB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+265
+ 11
+68
+ 21
+265
+  0
+LINE
+  5
+1DC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+265
+ 11
+68
+ 21
+245
+  0
+LINE
+  5
+1DD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+245
+ 11
+85
+ 21
+245
+  0
+LINE
+  5
+1DE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+245
+ 11
+85
+ 21
+265
+  0
+LINE
+  5
+1DF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+235
+ 11
+68
+ 21
+235
+  0
+LINE
+  5
+1E0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+235
+ 11
+68
+ 21
+215
+  0
+LINE
+  5
+1E1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+215
+ 11
+85
+ 21
+215
+  0
+LINE
+  5
+1E2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+215
+ 11
+85
+ 21
+235
+  0
+LINE
+  5
+1E3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+205
+ 11
+68
+ 21
+205
+  0
+LINE
+  5
+1E4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+205
+ 11
+68
+ 21
+185
+  0
+LINE
+  5
+1E5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+185
+ 11
+85
+ 21
+185
+  0
+LINE
+  5
+1E6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+185
+ 11
+85
+ 21
+205
+  0
+LINE
+  5
+1E7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+175
+ 11
+68
+ 21
+175
+  0
+LINE
+  5
+1E8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+175
+ 11
+68
+ 21
+155
+  0
+LINE
+  5
+1E9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+155
+ 11
+85
+ 21
+155
+  0
+LINE
+  5
+1EA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+155
+ 11
+85
+ 21
+175
+  0
+LINE
+  5
+1EB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+145
+ 11
+68
+ 21
+145
+  0
+LINE
+  5
+1EC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+145
+ 11
+68
+ 21
+125
+  0
+LINE
+  5
+1ED
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+125
+ 11
+85
+ 21
+125
+  0
+LINE
+  5
+1EE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+125
+ 11
+85
+ 21
+145
+  0
+LINE
+  5
+1EF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+115
+ 11
+68
+ 21
+115
+  0
+LINE
+  5
+1F0
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+115
+ 11
+68
+ 21
+95
+  0
+LINE
+  5
+1F1
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+95
+ 11
+85
+ 21
+95
+  0
+LINE
+  5
+1F2
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+95
+ 11
+85
+ 21
+115
+  0
+LINE
+  5
+1F3
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+85
+ 11
+68
+ 21
+85
+  0
+LINE
+  5
+1F4
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+85
+ 11
+68
+ 21
+65
+  0
+LINE
+  5
+1F5
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+68
+ 20
+65
+ 11
+85
+ 21
+65
+  0
+LINE
+  5
+1F6
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+85
+ 20
+65
+ 11
+85
+ 21
+85
+  0
+LINE
+  5
+1F7
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+385
+ 11
+365
+ 21
+385
+  0
+LINE
+  5
+1F8
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+385
+ 11
+365
+ 21
+365
+  0
+LINE
+  5
+1F9
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+365
+ 11
+382
+ 21
+365
+  0
+LINE
+  5
+1FA
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+365
+ 11
+382
+ 21
+385
+  0
+LINE
+  5
+1FB
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+355
+ 11
+365
+ 21
+355
+  0
+LINE
+  5
+1FC
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+355
+ 11
+365
+ 21
+335
+  0
+LINE
+  5
+1FD
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+335
+ 11
+382
+ 21
+335
+  0
+LINE
+  5
+1FE
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+335
+ 11
+382
+ 21
+355
+  0
+LINE
+  5
+1FF
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+325
+ 11
+365
+ 21
+325
+  0
+LINE
+  5
+200
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+325
+ 11
+365
+ 21
+305
+  0
+LINE
+  5
+201
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+305
+ 11
+382
+ 21
+305
+  0
+LINE
+  5
+202
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+305
+ 11
+382
+ 21
+325
+  0
+LINE
+  5
+203
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+295
+ 11
+365
+ 21
+295
+  0
+LINE
+  5
+204
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+295
+ 11
+365
+ 21
+275
+  0
+LINE
+  5
+205
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+275
+ 11
+382
+ 21
+275
+  0
+LINE
+  5
+206
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+275
+ 11
+382
+ 21
+295
+  0
+LINE
+  5
+207
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+265
+ 11
+365
+ 21
+265
+  0
+LINE
+  5
+208
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+265
+ 11
+365
+ 21
+245
+  0
+LINE
+  5
+209
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+245
+ 11
+382
+ 21
+245
+  0
+LINE
+  5
+20A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+245
+ 11
+382
+ 21
+265
+  0
+LINE
+  5
+20B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+235
+ 11
+365
+ 21
+235
+  0
+LINE
+  5
+20C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+235
+ 11
+365
+ 21
+215
+  0
+LINE
+  5
+20D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+215
+ 11
+382
+ 21
+215
+  0
+LINE
+  5
+20E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+215
+ 11
+382
+ 21
+235
+  0
+LINE
+  5
+20F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+205
+ 11
+365
+ 21
+205
+  0
+LINE
+  5
+210
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+205
+ 11
+365
+ 21
+185
+  0
+LINE
+  5
+211
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+185
+ 11
+382
+ 21
+185
+  0
+LINE
+  5
+212
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+185
+ 11
+382
+ 21
+205
+  0
+LINE
+  5
+213
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+175
+ 11
+365
+ 21
+175
+  0
+LINE
+  5
+214
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+175
+ 11
+365
+ 21
+155
+  0
+LINE
+  5
+215
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+155
+ 11
+382
+ 21
+155
+  0
+LINE
+  5
+216
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+155
+ 11
+382
+ 21
+175
+  0
+LINE
+  5
+217
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+145
+ 11
+365
+ 21
+145
+  0
+LINE
+  5
+218
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+145
+ 11
+365
+ 21
+125
+  0
+LINE
+  5
+219
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+125
+ 11
+382
+ 21
+125
+  0
+LINE
+  5
+21A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+125
+ 11
+382
+ 21
+145
+  0
+LINE
+  5
+21B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+115
+ 11
+365
+ 21
+115
+  0
+LINE
+  5
+21C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+115
+ 11
+365
+ 21
+95
+  0
+LINE
+  5
+21D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+95
+ 11
+382
+ 21
+95
+  0
+LINE
+  5
+21E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+95
+ 11
+382
+ 21
+115
+  0
+LINE
+  5
+21F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+85
+ 11
+365
+ 21
+85
+  0
+LINE
+  5
+220
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+85
+ 11
+365
+ 21
+65
+  0
+LINE
+  5
+221
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+365
+ 20
+65
+ 11
+382
+ 21
+65
+  0
+LINE
+  5
+222
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+382
+ 20
+65
+ 11
+382
+ 21
+85
+  0
+LINE
+  5
+223
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+269
+ 20
+55
+ 11
+399
+ 21
+55
+  0
+LINE
+  5
+224
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+399
+ 20
+55
+ 11
+399
+ 21
+10
+  0
+LINE
+  5
+225
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+392
+ 20
+354
+ 11
+392
+ 21
+95
+  0
+LINE
+  5
+226
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+50
+ 20
+55
+ 11
+180
+ 21
+55
+  0
+LINE
+  5
+227
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+58
+ 20
+355
+ 11
+58
+ 21
+95
+  0
+LINE
+  5
+228
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+400
+ 20
+395
+ 11
+400
+ 21
+440
+  0
+LINE
+  5
+229
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+50
+ 20
+395
+ 11
+400
+ 21
+395
+  0
+LINE
+  5
+22A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+20
+ 20
+30
+ 11
+30
+ 21
+30
+  0
+LINE
+  5
+22B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+30
+ 20
+30
+ 11
+30
+ 21
+20
+  0
+LINE
+  5
+22C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+30
+ 20
+20
+ 11
+20
+ 21
+20
+  0
+LINE
+  5
+22D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+20
+ 20
+20
+ 11
+20
+ 21
+30
+  0
+LINE
+  5
+22E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+420
+ 20
+30
+ 11
+430
+ 21
+30
+  0
+LINE
+  5
+22F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+430
+ 20
+30
+ 11
+430
+ 21
+20
+  0
+LINE
+  5
+230
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+430
+ 20
+20
+ 11
+420
+ 21
+20
+  0
+LINE
+  5
+231
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+420
+ 20
+20
+ 11
+420
+ 21
+30
+  0
+LINE
+  5
+232
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+420
+ 20
+430
+ 11
+430
+ 21
+430
+  0
+LINE
+  5
+233
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+430
+ 20
+430
+ 11
+430
+ 21
+420
+  0
+LINE
+  5
+234
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+430
+ 20
+420
+ 11
+420
+ 21
+420
+  0
+LINE
+  5
+235
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+420
+ 20
+420
+ 11
+420
+ 21
+430
+  0
+LINE
+  5
+236
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+20
+ 20
+430
+ 11
+30
+ 21
+430
+  0
+LINE
+  5
+237
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+30
+ 20
+430
+ 11
+30
+ 21
+420
+  0
+LINE
+  5
+238
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+30
+ 20
+420
+ 11
+20
+ 21
+420
+  0
+LINE
+  5
+239
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+20
+ 20
+420
+ 11
+20
+ 21
+430
+  0
+LINE
+  5
+23A
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+50
+ 11
+235
+ 21
+50
+  0
+LINE
+  5
+23B
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+50
+ 11
+235
+ 21
+33
+  0
+LINE
+  5
+23C
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+235
+ 20
+33
+ 11
+215
+ 21
+33
+  0
+LINE
+  5
+23D
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+215
+ 20
+33
+ 11
+215
+ 21
+50
+  0
+LINE
+  5
+23E
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+180
+ 20
+28
+ 11
+269
+ 21
+28
+  0
+LINE
+  5
+23F
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+180
+ 20
+55
+ 11
+180
+ 21
+28
+  0
+LINE
+  5
+240
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+269
+ 20
+28
+ 11
+269
+ 21
+55
+  0
+LINE
+  5
+241
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+58
+ 20
+95
+ 11
+10
+ 21
+95
+  0
+LINE
+  5
+242
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+10
+ 20
+95
+ 11
+10
+ 21
+70
+  0
+LINE
+  5
+243
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+440
+ 20
+95
+ 11
+392
+ 21
+95
+  0
+LINE
+  5
+244
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+440
+ 20
+95
+ 11
+440
+ 21
+70
+  0
+LINE
+  5
+245
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+440
+ 20
+354
+ 11
+392
+ 21
+354
+  0
+LINE
+  5
+246
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+440
+ 20
+380
+ 11
+440
+ 21
+354
+  0
+LINE
+  5
+247
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+58
+ 20
+355
+ 11
+10
+ 21
+355
+  0
+LINE
+  5
+248
+330
+A
+100
+AcDbEntity
+  8
+Layer 1
+  6
+CONTINUOUS
+ 62
+1
+100
+AcDbLine
+ 39
+0
+ 10
+10
+ 20
+380
+ 11
+10
+ 21
+355
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+1
+  3
+ACAD_GROUP
+350
+D
+  0
+DICTIONARY
+  5
+D
+330
+C
+100
+AcDbDictionary
+281
+1
+  0
+ENDSEC
+  0
+EOF
