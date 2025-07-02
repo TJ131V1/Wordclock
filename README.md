@@ -1,4 +1,4 @@
 This repository contains files for my personal wordclock project, inspired by QLOCKTWO. 
-The physical project is a wordclock, an 11x11 LED matrix controlled an arduino nano.
+The project is a physical wordclock made from scratch, controlled by an arduino nano; this repository contains the arduino code, KiCAD files, and 2D cutting files I used in this project.
 
-This repository contains the arduino code, PCB layout, Schematic, and 2D cutting files I created.
+The schematic and PCB files can be found under 'KiCAD Files'.
