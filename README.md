@@ -1,20 +1,19 @@
 **This repository contains all the files for my custom word clock project, inspired by QLOCKTWO EARTH 45.**
-The clock is a fully functional, physical word-based timepiece built from scratch and controlled by an Arduino Nano. In addition to telling the time, it includes several extra features such as:
+The clock is a fully functional, physical word-based timepiece built from scratch and controlled by an Arduino Nano. It includes four hidden capacitive touch sensors. In addition to telling the time, it features:
 
-Classic games like Snake and Tetris
+- Snake game
 
-Scrolling custom text
+- Tetris game
 
-LED visual effects including Conway’s Game of Life, Matrix rain, and a random letter decay animation
+- LED visual effects including custom scrolling text, Conway’s Game of Life, Matrix rain, and a random letter decay animation
 
 The repository includes:
 
-**Arduino Code** – All source code for the microcontroller
+- **Arduino Code** – All source code for the microcontroller
 
-**KiCAD Files** – Complete circuit schematic and PCB layout
+- **KiCAD Files** – Complete circuit schematic and PCB layout
 
-**2D Cutting Files** – Laser-cut design files for the structural components
-
+- **2D Cutting Files** – Laser-cut design files for the structural components
 
 <p align="center">
 
