@@ -3,6 +3,6 @@ The project is a physical word clock made from scratch, controlled by an arduino
 
 The schematic and PCB files can be found under 'KiCAD Files'.
 
-<img src="./Pictures/Front View.JPEG" alt="Front view of the word clock" width="300"/>
+<img src="./Pictures/Front View.JPEG" alt="Front view of the word clock" width="600"/>
 
-<img src="./Pictures/Rear View.JPEG" alt="Rear view of the word clock" width="300"/>
+<img src="./Pictures/Rear View.JPEG" alt="Rear view of the word clock" width="600"/>
