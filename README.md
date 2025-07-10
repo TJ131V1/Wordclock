@@ -1,3 +1,5 @@
+## 💡 Project Description
+
 **This repository contains all the files for my custom word clock project, inspired by QLOCKTWO EARTH 45.**
 The clock is a fully functional, physical word-based timepiece built from scratch and controlled by an Arduino Nano. It includes four hidden capacitive touch sensors. In addition to telling the time, it features:
 
@@ -14,6 +16,14 @@ The repository includes:
 - **KiCAD Files** – Complete circuit schematic and PCB layout
 
 - **2D Cutting Files** – Laser-cut design files for the structural components
+
+- **Technical Report** – In-depth 10-page report detailing the project design, implementation, and build process
+
+## 📽️ Showcase Video (Click Thumbnail to View)
+
+[![Watch the video](Pictures/Thumbnail.png)](https://youtu.be/x_0dHoGPLj4)
+
+## 📸 Product Pictures
 
 <p align="center">
 
